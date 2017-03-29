@@ -13,13 +13,12 @@ A curated list of resources I found useful in Software related field.
      * [Coding Style](#coding-style)
      * [Choose a Software License?](#choose-a-software-license)
      * [Crack a Code Interview](#crack-a-code-interview)
-*    [Platforms &amp; Frameworks](#platforms--frameworks)
+*    [Platforms & Frameworks](#platforms--frameworks)
      * [Data Science Contest Platform](#data-science-contest-platform)
      * [Choosing Web Development Framework](#choosing-web-development-framework)
      * [Backend as a Service (BAAS)](#backend-as-a-service-baas)
      * [MOOCs Learn to code](#moocs-learn-to-code)
      * [Online judge platforms to practice](#online-judge-platforms-to-practice)
-
 
 
 # Tutorials & Docs
@@ -47,7 +46,13 @@ A curated list of resources I found useful in Software related field.
    - [鳥哥的 Linux 私房菜](http://linux.vbird.org)
    - [菜鸟教程](http://www.runoob.com/linux/linux-tutorial.html)
 7. Regular Expression 正则表达式
-   1. [RegExr](http://regexr.com)
+   * [RegExr](http://regexr.com): Marv platfrom to test your Regular expression
+   * [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm) by [deerchao](http://deerchao.net)
+8. CUDA
+   * [Official Toolkit Documentation](http://docs.nvidia.com/cuda/index.html#)
+   * [Official Programming Guide](http://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#axzz4chzkIh5d)
+   * [Udacity CS344](https://www.udacity.com/wiki/cs344)
+
 
 
 
@@ -55,6 +60,8 @@ A curated list of resources I found useful in Software related field.
 
 1. [PEP-8](https://www.python.org/dev/peps/pep-0008/) (Python)
 2. [Doxygen](http://www.doxygen.nl) (C++)
+
+
 
 
 
@@ -109,6 +116,8 @@ A curated list of resources I found useful in Software related field.
 3. [MaxLeap](https://maxleap.cn/s/web/zh_cn/index.html)
 4. [Arrownck](http://docs.arrownock.com)
 5. [Parse](http://parseplatform.org) - No longer in service
+
+
 
 
 
