@@ -1,15 +1,15 @@
 # Resources
 
+A curated list of resources I found useful in Software related field. Any PR is welcomed.
+
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)
 
 [![forthebadge](http://forthebadge.com/badges/built-by-developers.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/badges/built-with-love.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)
 
 
-
-
-A curated list of resources I found useful in Software related field.
 
 # Table of Contents
 
@@ -90,7 +90,11 @@ A curated list of resources I found useful in Software related field.
 
       * [opensource.guide](https://opensource.guide) by [github](https://github.com/github/opensource.guide)
 
+      * [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+
       * [Badges](https://github.com/boennemann/badges) by [boennemann](https://github.com/boennemann): Awesome badges to show on your README
+
+      * [forthebadge.com](http://forthebadge.com)
 
         ​
 
