@@ -1,6 +1,13 @@
 # Resources
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)
+
+[![forthebadge](http://forthebadge.com/badges/built-by-developers.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/badges/built-with-love.svg)](http://forthebadge.com)
+
+
+
 
 A curated list of resources I found useful in Software related field.
 
@@ -83,6 +90,8 @@ A curated list of resources I found useful in Software related field.
 
       * [opensource.guide](https://opensource.guide) by [github](https://github.com/github/opensource.guide)
 
+      * [Badges](https://github.com/boennemann/badges) by [boennemann](https://github.com/boennemann): Awesome badges to show on your README
+
         ​
 
 ## Coding Style
@@ -148,8 +157,7 @@ A curated list of resources I found useful in Software related field.
 * [Udacity](https://www.udacity.com)
 
 
-
-## Online judge platforms to practice
+## Online Judge platforms to practice
 
 * [Leetcode](http://www.leetcode.com)
 * [Lintcode](http://www.lintcode.com)
