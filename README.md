@@ -6,19 +6,21 @@ A curated list of resources I found useful in Software related field.
 
 # Table of Contents
 
-
-
-*    [Tutorials & Docs](#tutorials--docs)
+* [Tutorials &amp; Docs](#tutorials--docs)
      * [Languages &amp; Tools Guide &amp; Doc](#languages--tools-guide--doc)
      * [Coding Style](#coding-style)
      * [Choose a Software License?](#choose-a-software-license)
-     * [Crack a Code Interview](#crack-a-code-interview)
-*    [Platforms & Frameworks](#platforms--frameworks)
+* [Platforms &amp; Frameworks](#platforms--frameworks)
      * [Data Science Contest Platform](#data-science-contest-platform)
      * [Choosing Web Development Framework](#choosing-web-development-framework)
      * [Backend as a Service (BAAS)](#backend-as-a-service-baas)
      * [MOOCs Learn to code](#moocs-learn-to-code)
      * [Online judge platforms to practice](#online-judge-platforms-to-practice)
+* [Find a Job](#find-a-job)
+     * [Job Websites](#job-websites)
+     * [Job Forums](#job-forums)
+     * [Crack a Code Interview](#crack-a-code-interview)
+
 
 
 # Tutorials & Docs
@@ -100,14 +102,6 @@ A curated list of resources I found useful in Software related field.
    - Paul Miller 工作的中文翻译
 
 
-## Crack a Code Interview
-
-1. Experience and suggestions
-   - [Google Interview University](https://github.com/jwasham/google-interview-university) by [jwasham](https://github.com/jwasham)
-   - [Companies hiring without white boards](https://github.com/poteto/hiring-without-whiteboards) by [poteto](https://github.com/poteto)
-   - [interviews](https://github.com/kdn251/interviews) by [kdn251](https://github.com/kdn251)
-
-   ​
 
 
 # Platforms & Frameworks
@@ -165,29 +159,38 @@ A curated list of resources I found useful in Software related field.
 
 
 
+
+# Find a Job
+
 ## Job Websites
 
 1. Company Official:
-   * [Google Career](http://careers.google.com)
-   * [Microsoft: Join MS](http://joinms.com/cn_c/index.html)
-   * [MSRA 微软亚研院](http://www.msra.cn/zh-cn/jobs/interns/internopenings.aspx)
-   * [Tencent](http://join.qq.com)
-   * [Baidu Talent](http://talent.baidu.com/external/baidu/index.html#/)
-   * [Morgan Stanley](http://www.morganstanley.com/people-opportunities/students-graduates)
+   - [Google Career](http://careers.google.com)
+   - [Microsoft: Join MS](http://joinms.com/cn_c/index.html)
+   - [MSRA 微软亚研院](http://www.msra.cn/zh-cn/jobs/interns/internopenings.aspx)
+   - [Tencent](http://join.qq.com)
+   - [Baidu Talent](http://talent.baidu.com/external/baidu/index.html#/)
+   - [Morgan Stanley](http://www.morganstanley.com/people-opportunities/students-graduates)
 
 
-2. Third Party
-   * [中华英才网](http://www.chinahr.com/beijing/)
-   * [实习僧](http://www.shixiseng.com)
-
-
+1. Third Party
+   - [中华英才网](http://www.chinahr.com/beijing/)
+   - [实习僧](http://www.shixiseng.com)
 
 ## Job Forums
 
 - [Glassdoor](https://www.glassdoor.com): many interview experience and salary information
-
 - [看准网](http://www.kanzhun.com): Chinese Glassdoor
-
 - [应届生论坛](http://bbs.yingjiesheng.com/forum.php?gid=848): Many companies' HR (e.g. Microsoft) answer questions here.
 
-  ​
+
+
+## Crack a Code Interview
+
+1. Experience and suggestions
+
+   - [Google Interview University](https://github.com/jwasham/google-interview-university) by [jwasham](https://github.com/jwasham)
+   - [Companies hiring without white boards](https://github.com/poteto/hiring-without-whiteboards) by [poteto](https://github.com/poteto)
+   - [interviews](https://github.com/kdn251/interviews) by [kdn251](https://github.com/kdn251)
+
+   ​
