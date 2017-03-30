@@ -27,34 +27,61 @@ A curated list of resources I found useful in Software related field.
 
 ## Languages & Tools Guide & Doc
 
-1. C++
-   - [Documentation](http://www.cplusplus.com)
-2. Python
-   - [Documentation](https://docs.python.org/2.7/)
-   - [廖雪峰的python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000) by [Michael Liao](https://github.com/michaelliao)
-   - [IPython Notebook](http://ipython.org)
-3. R
-   - [R語言翻轉教室](http://datascienceandr.org) by [Wush Wu](https://github.com/wush978)
-   - [RStudio](https://www.rstudio.com): A handy R IDE
-4. Git
-   - [廖雪峰的git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) by [Michael Liao](https://github.com/michaelliao)
-   - [Github Guides](https://guides.github.com/activities/hello-world/)
-5. HTML, CSS, JavaScript, PHP, SQL, ...
-   - [W3Schools](https://www.w3schools.com)
-   - [W3school (Chinese)](http://www.w3school.com.cn)
-6. Shell
-   - [鳥哥的 Linux 私房菜](http://linux.vbird.org)
-   - [菜鸟教程](http://www.runoob.com/linux/linux-tutorial.html)
-7. Regular Expression 正则表达式
-   * [RegExr](http://regexr.com): Marv platfrom to test your Regular expression
-   * [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm) by [deerchao](http://deerchao.net)
-8. CUDA
-   * [Official Toolkit Documentation](http://docs.nvidia.com/cuda/index.html#)
-   * [Official Programming Guide](http://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#axzz4chzkIh5d)
-   * [Udacity CS344](https://www.udacity.com/wiki/cs344)
+1. Languages
+   1. C++
+      - [Documentation](http://www.cplusplus.com)
 
+   2. Python
+      - [Documentation](https://docs.python.org/2.7/)
+      - [廖雪峰的python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000) by [Michael Liao](https://github.com/michaelliao)
+      - [IPython Notebook](http://ipython.org)
 
+   3. R
+      - [R語言翻轉教室](http://datascienceandr.org) by [Wush Wu](https://github.com/wush978)
+      - [RStudio](https://www.rstudio.com): A handy R IDE
 
+   4. HTML, CSS, JavaScript, PHP, SQL, ...
+
+      * [W3Schools](https://www.w3schools.com)
+      * [W3school (Chinese)](http://www.w3school.com.cn)
+
+   5. Shell
+
+      - [鳥哥的 Linux 私房菜](http://linux.vbird.org)
+      - [菜鸟教程](http://www.runoob.com/linux/linux-tutorial.html)
+
+      ​
+
+2. Tools
+
+   1. Git
+      - [廖雪峰的git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) by [Michael Liao](https://github.com/michaelliao)
+      - [Github Guides](https://guides.github.com/activities/hello-world/)
+
+   2. Regular Expression 正则表达式
+      * [RegExr](http://regexr.com): Marv platfrom to test your Regular expression
+      * [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm) by [deerchao](http://deerchao.net)
+
+   3. CUDA
+      * [Official Toolkit Documentation](http://docs.nvidia.com/cuda/index.html#)
+      * [Official Programming Guide](http://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#axzz4chzkIh5d)
+      * [Udacity CS344](https://www.udacity.com/wiki/cs344)
+
+   4. Latex
+
+      * [Latex 中文模版收集](https://github.com/DeathKing/LaTeX-Template-Cn)
+
+   5. Machine Learning
+
+      * [Machine Learning Coursera](https://www.coursera.org/learn/machine-learning) by [Andrew Ng](http://www.andrewng.org)
+      * [MLAlgorithms](https://github.com/rushter/MLAlgorithms) by [rushter](https://github.com/rushter)
+      * [Introduction to ML with python](https://github.com/amueller/introduction_to_ml_with_python) by [amueller](https://github.com/amueller)
+
+   6. Open source guide
+
+      * [opensource.guide](https://opensource.guide) by [github](https://github.com/github/opensource.guide)
+
+        ​
 
 ## Coding Style
 
@@ -73,26 +100,24 @@ A curated list of resources I found useful in Software related field.
    - Paul Miller 工作的中文翻译
 
 
-
 ## Crack a Code Interview
 
 1. Experience and suggestions
    - [Google Interview University](https://github.com/jwasham/google-interview-university) by [jwasham](https://github.com/jwasham)
-2. Experience-sharing Platforms
-   - [Glassdoor](https://www.glassdoor.com): many interview experience and salary information
-   - [看准网](http://www.kanzhun.com): Chinese Glassdoor
+   - [Companies hiring without white boards](https://github.com/poteto/hiring-without-whiteboards) by [poteto](https://github.com/poteto)
+   - [interviews](https://github.com/kdn251/interviews) by [kdn251](https://github.com/kdn251)
 
+   ​
 
 
 # Platforms & Frameworks
 
 ## Data Science Contest Platform
 
-1. [Kaggle](https://www.kaggle.com)
-2. [Tianchi 天池](https://tianchi.shuju.aliyun.com)
-3. [Biendata](https://biendata.com)
-4. [DataHack](https://datahack.analyticsvidhya.com/contest/all/)
-
+* [Kaggle](https://www.kaggle.com)
+* [Tianchi 天池](https://tianchi.shuju.aliyun.com)
+* [Biendata](https://biendata.com)
+* [DataHack](https://datahack.analyticsvidhya.com/contest/all/)
 
 
 ## Choosing Web Development Framework
@@ -111,33 +136,58 @@ A curated list of resources I found useful in Software related field.
 
 ## Backend as a Service (BAAS)
 
-1. [LeanCloud](https://leancloud.cn)
-2. [Bmob](http://www.bmob.cn)
-3. [MaxLeap](https://maxleap.cn/s/web/zh_cn/index.html)
-4. [Arrownck](http://docs.arrownock.com)
-5. [Parse](http://parseplatform.org) - No longer in service
-
+* [LeanCloud](https://leancloud.cn)
+* [Bmob](http://www.bmob.cn)
+* [MaxLeap](https://maxleap.cn/s/web/zh_cn/index.html)
+* [Arrownck](http://docs.arrownock.com)
+* [Parse](http://parseplatform.org) - No longer in service
 
 
 
 
 ## MOOCs Learn to code
 
-1. [Udemy](https://www.udemy.com)
-2. [Khan Academy](https://www.khanacademy.org)
-3. [Codecademy](https://www.codecademy.com)
-4. [Cousera](https://www.coursera.org)
-5. [Udacity](https://www.udacity.com)
-
+* [Udemy](https://www.udemy.com)
+* [Khan Academy](https://www.khanacademy.org)
+* [Codecademy](https://www.codecademy.com)
+* [Cousera](https://www.coursera.org)
+* [Udacity](https://www.udacity.com)
 
 
 
 ## Online judge platforms to practice
 
-1. [Leetcode](http://www.leetcode.com)
-2. [Lintcode](http://www.lintcode.com)
-3. [hihoCoder](http://www.hihocoder.com)
-4. [HackerRank](https://www.hackerrank.com/)
-5. [Google Kickstart (CodeJam)](https://code.google.com/codejam/kickstart)
+* [Leetcode](http://www.leetcode.com)
+* [Lintcode](http://www.lintcode.com)
+* [hihoCoder](http://www.hihocoder.com)
+* [HackerRank](https://www.hackerrank.com/)
+* [Google Kickstart (CodeJam)](https://code.google.com/codejam/kickstart)
 
 
+
+## Job Websites
+
+1. Company Official:
+   * [Google Career](http://careers.google.com)
+   * [Microsoft: Join MS](http://joinms.com/cn_c/index.html)
+   * [MSRA 微软亚研院](http://www.msra.cn/zh-cn/jobs/interns/internopenings.aspx)
+   * [Tencent](http://join.qq.com)
+   * [Baidu Talent](http://talent.baidu.com/external/baidu/index.html#/)
+   * [Morgan Stanley](http://www.morganstanley.com/people-opportunities/students-graduates)
+
+
+2. Third Party
+   * [中华英才网](http://www.chinahr.com/beijing/)
+   * [实习僧](http://www.shixiseng.com)
+
+
+
+## Job Forums
+
+- [Glassdoor](https://www.glassdoor.com): many interview experience and salary information
+
+- [看准网](http://www.kanzhun.com): Chinese Glassdoor
+
+- [应届生论坛](http://bbs.yingjiesheng.com/forum.php?gid=848): Many companies' HR (e.g. Microsoft) answer questions here.
+
+  ​
