@@ -1,8 +1,9 @@
 # Resources
 
-A curated list of resources I found useful in Software related field. Any PR is welcomed.
+A curated list of resources I found useful in Software related field.
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+__Any PR is welcomed !__
+
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)
 
@@ -20,14 +21,15 @@ A curated list of resources I found useful in Software related field. Any PR is 
      * [Choose a Software License?](#choose-a-software-license)
 * [Platforms &amp; Frameworks](#platforms--frameworks)
      * [Data Science Contest Platform](#data-science-contest-platform)
-     * [Choosing Web Development Framework](#choosing-web-development-framework)
+     * [Some Web Development Framework I recommend](#some-web-development-framework-i-recommend)
      * [Backend as a Service (BAAS)](#backend-as-a-service-baas)
      * [MOOCs Learn to code](#moocs-learn-to-code)
-     * [Online judge platforms to practice](#online-judge-platforms-to-practice)
+     * [Online Judge platforms to practice](#online-judge-platforms-to-practice)
 * [Find a Job](#find-a-job)
      * [Job Websites](#job-websites)
      * [Job Forums](#job-forums)
      * [Crack a Code Interview](#crack-a-code-interview)
+
 
 
 
@@ -59,8 +61,6 @@ A curated list of resources I found useful in Software related field. Any PR is 
 
       - [鳥哥的 Linux 私房菜](http://linux.vbird.org)
       - [菜鸟教程](http://www.runoob.com/linux/linux-tutorial.html)
-
-      ​
 
 2. Tools
 
@@ -128,7 +128,9 @@ A curated list of resources I found useful in Software related field. Any PR is 
 * [DataHack](https://datahack.analyticsvidhya.com/contest/all/)
 
 
-## Choosing Web Development Framework
+
+
+## Some Web Development Framework I recommend
 
 [Wikipedia: Comparison of web frameworks](https://en.wikipedia.org/wiki/Comparison_of_web_frameworks#PHP)
 
@@ -162,6 +164,8 @@ A curated list of resources I found useful in Software related field. Any PR is 
 * [Udacity](https://www.udacity.com)
 
 
+
+
 ## Online Judge platforms to practice
 
 * [Leetcode](http://www.leetcode.com)
@@ -169,6 +173,7 @@ A curated list of resources I found useful in Software related field. Any PR is 
 * [hihoCoder](http://www.hihocoder.com)
 * [HackerRank](https://www.hackerrank.com/)
 * [Google Kickstart (CodeJam)](https://code.google.com/codejam/kickstart)
+* [Nowcode 牛客网](https://www.nowcoder.com)
 
 
 
@@ -181,21 +186,41 @@ A curated list of resources I found useful in Software related field. Any PR is 
    - [Google Career](http://careers.google.com)
    - [Microsoft: Join MS](http://joinms.com/cn_c/index.html)
    - [MSRA 微软亚研院](http://www.msra.cn/zh-cn/jobs/interns/internopenings.aspx)
-   - [Tencent](http://join.qq.com)
-   - [Baidu Talent](http://talent.baidu.com/external/baidu/index.html#/)
+   - [Tencent 腾讯](http://join.qq.com)
+   - [Baidu Talent 百度](http://talent.baidu.com/external/baidu/index.html#/)
+   - [Alibaba 阿里巴巴](https://campus.alibaba.com/index.htm)
    - [Morgan Stanley](http://www.morganstanley.com/people-opportunities/students-graduates)
+   - [Yahoo](https://tas-yahoo.taleo.net/careersection/yahoo_global_cs/jobsearch.ftl)
+   - [IBM](http://www.ibmcampus.com)
+   - [DiDi Research 滴滴研究院](http://research.xiaojukeji.com/trainee.html)
+2. Third Party:
+   * [中华英才网](http://www.chinahr.com/beijing/)
+   * [实习僧](http://www.shixiseng.com)
+   * [才易](http://www.icaiyi.net/) - An app: Global recruitment platform for Chinese talented students
+   * [Linkedin](https://www.linkedin.com)
+   * [Chitu app 赤兔](https://www.chitu.cn)
+3. Wechat Subscription (微信公众号):
+   * 清华就业 (THUCareerCenter)
+   * 职协互联网club (SCDA-InternetClub)
+   * 逆行求职 (nixingjihua)
+   * Google招聘包打听
+   * 应届生求职网订阅号 (yingjiesheng)
+   * 尖子生直聘 (cayi1310)
 
 
-1. Third Party
-   - [中华英才网](http://www.chinahr.com/beijing/)
-   - [实习僧](http://www.shixiseng.com)
+
 
 ## Job Forums
 
 - [Glassdoor](https://www.glassdoor.com): many interview experience and salary information
+
 - [看准网](http://www.kanzhun.com): Chinese Glassdoor
+
 - [应届生论坛](http://bbs.yingjiesheng.com/forum.php?gid=848): Many companies' HR (e.g. Microsoft) answer questions here.
 
+- [北大未名BBS - 实习(Intern)版](https://bbs.pku.edu.cn/v2/thread.php?bid=896)
+
+  ​
 
 
 ## Crack a Code Interview
