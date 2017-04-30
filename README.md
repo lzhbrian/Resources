@@ -40,8 +40,10 @@ __Any PR is welcomed !__
 ## Languages & Tools Guide & Doc
 
 1. Languages
+
    1. C++
       - [Documentation](http://www.cplusplus.com)
+      - [Eigen - C++ template library for Matrix Computation](http://eigen.tuxfamily.org)
 
    2. Python
       - [Documentation](https://docs.python.org/2.7/)
@@ -90,11 +92,8 @@ __Any PR is welcomed !__
    6. Open source guide
 
       * [opensource.guide](https://opensource.guide) by [github](https://github.com/github/opensource.guide)
-
       * [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
-
       * [Badges](https://github.com/boennemann/badges) by [boennemann](https://github.com/boennemann): Awesome badges to show on your README
-
       * [forthebadge.com](http://forthebadge.com)
 
         ​
@@ -193,6 +192,9 @@ __Any PR is welcomed !__
    - [Yahoo](https://tas-yahoo.taleo.net/careersection/yahoo_global_cs/jobsearch.ftl)
    - [IBM](http://www.ibmcampus.com)
    - [DiDi Research 滴滴研究院](http://research.xiaojukeji.com/trainee.html)
+   - [Apple in China](http://apple.51job.com/campus/corporate.html)
+   - [Trend Micro](http://trendmicro.zhiye.com/Intern)
+   - [Sogou](http://campus.sogou.com/)
 2. Third Party:
    * [中华英才网](http://www.chinahr.com/beijing/)
    * [实习僧](http://www.shixiseng.com)
@@ -213,11 +215,8 @@ __Any PR is welcomed !__
 ## Job Forums
 
 - [Glassdoor](https://www.glassdoor.com): many interview experience and salary information
-
 - [看准网](http://www.kanzhun.com): Chinese Glassdoor
-
 - [应届生论坛](http://bbs.yingjiesheng.com/forum.php?gid=848): Many companies' HR (e.g. Microsoft) answer questions here.
-
 - [北大未名BBS - 实习(Intern)版](https://bbs.pku.edu.cn/v2/thread.php?bid=896)
 
   ​
